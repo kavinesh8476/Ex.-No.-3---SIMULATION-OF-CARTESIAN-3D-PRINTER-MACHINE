@@ -103,7 +103,8 @@ The primary purpose of the z-axis top cover is to prevent dust and debris from s
 motor is help to movement of the print head along x,y,z axes.
 
 ### Complete assembly
-![Uploading c.png…]()
+![c](https://github.com/kavinesh8476/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118466561/9078691b-73b7-4057-9633-986aca244623)
+
 
 #### Frame :
 rigid structure that holds all the other components of the printer
@@ -131,7 +132,9 @@ A spool refers to a roll of filament that is used as the printing material for t
 
 ### Playing with Axes
 
-![Uploading playing.png…]()
+![playing](https://github.com/kavinesh8476/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118466561/f1ca3141-4c16-4dbe-b608-c92af024688c)
+
+
 
 
 
